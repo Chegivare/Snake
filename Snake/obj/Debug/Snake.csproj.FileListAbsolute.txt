@@ -1,0 +1,12 @@
+e:\Project\My Snake\Final Snake\Snake\bin\Debug\Lesson 4.exe.config
+e:\Project\My Snake\Final Snake\Snake\bin\Debug\Lesson 4.exe
+e:\Project\My Snake\Final Snake\Snake\bin\Debug\Lesson 4.pdb
+e:\Project\My Snake\Final Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+e:\Project\My Snake\Final Snake\Snake\obj\Debug\Lesson 4.exe
+e:\Project\My Snake\Final Snake\Snake\obj\Debug\Lesson 4.pdb
+E:\Project\Snake_rep\Snake\bin\Debug\Lesson 4.exe.config
+E:\Project\Snake_rep\Snake\obj\Debug\Lesson 4.exe
+E:\Project\Snake_rep\Snake\obj\Debug\Lesson 4.pdb
+E:\Project\Snake_rep\Snake\bin\Debug\Lesson 4.exe
+E:\Project\Snake_rep\Snake\bin\Debug\Lesson 4.pdb
+E:\Project\Snake_rep\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
